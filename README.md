@@ -39,7 +39,7 @@ A curated list of awesome command-line frameworks, toolkits, guides and gizmos. 
 
 *Choose your base shell.*
 
-* [nushell](https://github.com/nushell/nushell) ⭐ 41,053 | 🐛 700 | 🌐 Rust | 📅 2026-11-21 - A modern shell written in Rust
+* [nushell](https://github.com/nushell/nushell) ⭐ 41,069 | 🐛 697 | 🌐 Rust | 📅 2026-11-22 - A modern shell written in Rust
 * [murex](https://github.com/lmorg/murex) ⭐ 1,928 | 🐛 83 | 🌐 Go | 📅 2026-11-10 - A smarter shell and scripting environment with advanced features designed for usability, safety and productivity (eg smarter DevOps tooling)
 * [ion](https://github.com/redox-os/ion) ⭐ 1,657 | 🐛 60 | 🌐 Rust | 📅 2026-11-03 - A modern system shell that features a simple, yet powerful, syntax. It is written entirely in Rust.
 * [ngs](https://github.com/ngs-lang/ngs) ⭐ 1,522 | 🐛 304 | 🌐 C | 📅 2026-11-18 - Fully featured scripting language created specifically for Ops. REPL is being developed.
@@ -64,33 +64,33 @@ A curated list of awesome command-line frameworks, toolkits, guides and gizmos. 
 
 *Search, bookmarks, multiplexing, and other tools that make your terminal experience more productive.*
 
-* [fzf](https://github.com/junegunn/fzf) ⭐ 84,327 | 🐛 336 | 🌐 Go | 📅 2026-11-19 - A command-line fuzzy finder
-* [rg](https://github.com/BurntSushi/ripgrep) ⭐ 70,122 | 🐛 128 | 🌐 Rust | 📅 2026-11-21 - ripgrep is a line oriented search tool that combines the usability of The Silver Searcher with the raw speed of GNU grep
-* [fd](https://github.com/sharkdp/fd) ⭐ 45,150 | 🐛 210 | 🌐 Rust | 📅 2026-11-21 - A simple, fast and user-friendly alternative to find.
-* [ag](https://github.com/ggreer/the_silver_searcher) ⭐ 27,128 | 🐛 564 | 🌐 C | 📅 2024-06-16 - Super fast string search through a directory hierarchy
-* [nnn](https://github.com/jarun/nnn) ⭐ 22,137 | 🐛 1 | 🌐 C | 📅 2026-11-01 - File browser and disk usage analyzer with excellent desktop integration
-* [browsh](https://github.com/browsh-org/browsh) ⭐ 19,136 | 🐛 240 | 🌐 JavaScript | 📅 2026-11-02 - The modern text-based browser
-* [navi](https://github.com/denisidoro/navi) ⭐ 17,888 | 🐛 131 | 🌐 Rust | 📅 2026-10-16 - An interactive cheatsheet tool for the command-line
-* [direnv](https://github.com/direnv/direnv) ⭐ 15,560 | 🐛 348 | 🌐 Go | 📅 2026-11-16 - An environment switcher for the shell, compare with autoenv
-* [mackup](https://github.com/lra/mackup/) ⭐ 15,360 | 🐛 291 | 🌐 Python | 📅 2026-11-17 - Keep your application settings in sync (OS X/Linux)
-* [broot](https://github.com/Canop/broot) ⭐ 13,177 | 🐛 103 | 🌐 Rust | 📅 2026-11-12 - A better way to navigate directories
-* [lf](https://github.com/gokcehan/lf) ⭐ 9,602 | 🐛 74 | 🌐 Go | 📅 2026-11-19 - Terminal file manager written in Go, inspired by ranger
-* [mcfly](https://github.com/cantino/mcfly) ⭐ 7,830 | 🐛 140 | 🌐 Rust | 📅 2026-09-01 - Fly through your shell history. Great Scot!
-* [Buku](https://github.com/jarun/Buku) ⭐ 7,256 | 🐛 1 | 🌐 Python | 📅 2026-11-18 - Powerful command-line bookmark manager
+* [fzf](https://github.com/junegunn/fzf) ⭐ 84,349 | 🐛 336 | 🌐 Go | 📅 2026-11-22 - A command-line fuzzy finder
+* [rg](https://github.com/BurntSushi/ripgrep) ⭐ 70,143 | 🐛 74 | 🌐 Rust | 📅 2026-11-22 - ripgrep is a line oriented search tool that combines the usability of The Silver Searcher with the raw speed of GNU grep
+* [fd](https://github.com/sharkdp/fd) ⭐ 45,162 | 🐛 211 | 🌐 Rust | 📅 2026-11-21 - A simple, fast and user-friendly alternative to find.
+* [ag](https://github.com/ggreer/the_silver_searcher) ⭐ 27,126 | 🐛 564 | 🌐 C | 📅 2024-06-16 - Super fast string search through a directory hierarchy
+* [nnn](https://github.com/jarun/nnn) ⭐ 22,140 | 🐛 1 | 🌐 C | 📅 2026-11-22 - File browser and disk usage analyzer with excellent desktop integration
+* [browsh](https://github.com/browsh-org/browsh) ⭐ 19,139 | 🐛 240 | 🌐 JavaScript | 📅 2026-11-02 - The modern text-based browser
+* [navi](https://github.com/denisidoro/navi) ⭐ 17,890 | 🐛 131 | 🌐 Rust | 📅 2026-10-16 - An interactive cheatsheet tool for the command-line
+* [direnv](https://github.com/direnv/direnv) ⭐ 15,561 | 🐛 349 | 🌐 Go | 📅 2026-11-16 - An environment switcher for the shell, compare with autoenv
+* [mackup](https://github.com/lra/mackup/) ⭐ 15,361 | 🐛 291 | 🌐 Python | 📅 2026-11-17 - Keep your application settings in sync (OS X/Linux)
+* [broot](https://github.com/Canop/broot) ⭐ 13,187 | 🐛 103 | 🌐 Rust | 📅 2026-11-12 - A better way to navigate directories
+* [lf](https://github.com/gokcehan/lf) ⭐ 9,601 | 🐛 75 | 🌐 Go | 📅 2026-11-19 - Terminal file manager written in Go, inspired by ranger
+* [mcfly](https://github.com/cantino/mcfly) ⭐ 7,830 | 🐛 141 | 🌐 Rust | 📅 2026-11-22 - Fly through your shell history. Great Scot!
+* [Buku](https://github.com/jarun/Buku) ⭐ 7,256 | 🐛 1 | 🌐 Python | 📅 2026-11-22 - Powerful command-line bookmark manager
 * [googler](https://github.com/jarun/googler) ⚠️ Archived - Google Search, Google Site Search, Google News from the terminal
 * [autoenv](https://github.com/hyperupcall/autoenv) ⭐ 6,064 | 🐛 14 | 🌐 Shell | 📅 2025-11-20 - Directory-based environments.
 * [spark](https://github.com/holman/spark) ⭐ 6,060 | 🐛 16 | 🌐 Shell | 📅 2022-05-07 - ▁▂▃▅▂▇ in your shell
 * [fasd](https://github.com/clvv/fasd) ⚠️ Archived - Command-line productivity booster, offers quick access to files and directories
 * [how2](https://github.com/santinic/how2) ⭐ 5,765 | 🐛 7 | 🌐 JavaScript | 📅 2023-03-15 - `how2` finds the simplest way to do something in a unix shell. It's like `man`, but you can query it in natural language.
 * [pathpicker](https://github.com/facebook/PathPicker) ⭐ 5,239 | 🐛 26 | 🌐 Python | 📅 2024-09-05 - Accepts inputs like grep, searches, git etc; allows selecting files from the result of the input, which you can then open or provide as argument to a command.
-* [fselect](https://github.com/jhspetersson/fselect) ⭐ 4,477 | 🐛 6 | 🌐 Rust | 📅 2026-11-20 - Find files with SQL-like queries.
+* [fselect](https://github.com/jhspetersson/fselect) ⭐ 4,478 | 🐛 6 | 🌐 Rust | 📅 2026-11-22 - Find files with SQL-like queries.
 * [hstr](https://github.com/dvorka/hstr) ⭐ 4,465 | 🐛 182 | 🌐 C | 📅 2026-11-10 - Bash History Suggest Box
-* [ddgr](https://github.com/jarun/ddgr) ⭐ 3,579 | 🐛 0 | 🌐 Python | 📅 2026-10-31 - DuckDuckGo from the terminal
+* [ddgr](https://github.com/jarun/ddgr) ⭐ 3,579 | 🐛 0 | 🌐 Python | 📅 2026-11-22 - DuckDuckGo from the terminal
 * [percol](https://github.com/mooz/percol) ⭐ 3,318 | 🐛 52 | 🌐 Python | 📅 2023-12-30 - Adds flavor of interactive filtering to the traditional pipe concept of UNIX shell
-* [dnote](https://github.com/dnote/dnote) ⭐ 3,096 | 🐛 38 | 🌐 Go | 📅 2026-11-14 - A simple command line notebook with multi-device sync and web interface
+* [dnote](https://github.com/dnote/dnote) ⭐ 3,096 | 🐛 40 | 🌐 Go | 📅 2026-11-14 - A simple command line notebook with multi-device sync and web interface
 * [desk](https://github.com/jamesob/desk) ⭐ 2,569 | 🐛 19 | 🌐 Shell | 📅 2022-07-07 - A lightweight workspace manager for the shell
 * [marker](https://github.com/pindexis/marker) ⭐ 2,098 | 🐛 49 | 🌐 Python | 📅 2024-04-06 - Bookmark your shell commands
-* [k](https://github.com/supercrabtree/k) ⭐ 1,805 | 🐛 47 | 🌐 Shell | 📅 2023-02-04 - k is a Zsh script to make directory listings more readable, adding Git status, fileweight colors and rotting dates
+* [k](https://github.com/supercrabtree/k) ⭐ 1,805 | 🐛 49 | 🌐 Shell | 📅 2023-02-04 - k is a Zsh script to make directory listings more readable, adding Git status, fileweight colors and rotting dates
 * [boilr](https://github.com/tmrts/boilr) ⭐ 1,766 | 🐛 44 | 🌐 Go | 📅 2023-03-07 - A blazingly fast CLI tool for creating projects from boilerplate templates.
 * [borg](https://github.com/ok-borg/borg) ⚠️ Archived - A terminal based search engine for bash commands
 * [arttime](https://github.com/reportaman/arttime) ⭐ 1,400 | 🐛 6 | 🌐 Shell | 📅 2026-08-18 - Beauty of text art meets functionality of clock, timer, pomodoro++ time manager
@@ -123,7 +123,7 @@ A curated list of awesome command-line frameworks, toolkits, guides and gizmos. 
 * [shell-history](https://github.com/pawamoy/shell-history) ⭐ 116 | 🐛 9 | 🌐 Python | 📅 2026-10-22 - Visualize your shell usage with Highcharts
 * [ok-sh](https://github.com/secretGeek/ok-bash) ⭐ 103 | 🐛 6 | 🌐 Shell | 📅 2025-03-24 - Do you work on many different projects? And in each project, are there commands you use that are specific to that project? You need a .ok file.
 * [CloudClip](https://github.com/skywind3000/CloudClip) ⭐ 86 | 🐛 0 | 🌐 Python | 📅 2018-03-15 - Your own clipboard in the cloud, copy and paste text with gist between different systems
-* [q](https://github.com/cal2195/q) ⭐ 70 | 🐛 5 | 🌐 Shell | 📅 2020-04-29 - Vim like macro registers for your Bash and Zsh Shell
+* [q](https://github.com/cal2195/q) ⭐ 71 | 🐛 5 | 🌐 Shell | 📅 2020-04-29 - Vim like macro registers for your Bash and Zsh Shell
 * [googlr](https://github.com/Astranno/googlr) ⚠️ Archived - Command line tool that lets you search Google from your terminal.
 * [lf.sh](https://github.com/suewonjp/lf.sh) ⭐ 47 | 🐛 0 | 🌐 Shell | 📅 2025-04-28 - Quickly search files with fewer typings and do many more (grepping, copying path to clipboard, etc)
 * [foxy](https://github.com/s-p-k/foxy) ⭐ 45 | 🐛 0 | 🌐 Shell | 📅 2018-06-10 - Plain text bookmarks for Firefox and surf browsers.
@@ -137,11 +137,11 @@ A curated list of awesome command-line frameworks, toolkits, guides and gizmos. 
 
 - [snips](https://github.com/srijanshetty/snips) ⭐ 84 | 🐛 1 | 🌐 TypeScript | 📅 2024-02-27 - Command line tool to manage snippets of code.
 
-* [thefuck](https://github.com/nvbn/thefuck) ⭐ 97,965 | 🐛 472 | 🌐 Python | 📅 2024-07-19 - Fix common shell mistakes by using an easy to remember command
+* [thefuck](https://github.com/nvbn/thefuck) ⭐ 97,966 | 🐛 472 | 🌐 Python | 📅 2024-07-19 - Fix common shell mistakes by using an easy to remember command
 * [xsv](https://github.com/BurntSushi/xsv) ⚠️ Archived - a fast CSV command line toolkit written in Rust
-* [usql](https://github.com/xo/usql) ⭐ 10,176 | 🐛 0 | 🌐 Go | 📅 2026-11-19 - Universal command-line interface for SQL databases.
-* [xxh](https://github.com/xxh/xxh) ⭐ 6,133 | 🐛 30 | 🌐 Python | 📅 2026-06-02 - Bring your favorite shell wherever you go through the SSH.
-* [xplr](https://github.com/sayanarijit/xplr) ⭐ 4,851 | 🐛 4 | 🌐 Rust | 📅 2026-11-17 -  A hackable, minimal, fast TUI file explorer
+* [usql](https://github.com/xo/usql) ⭐ 10,177 | 🐛 0 | 🌐 Go | 📅 2026-11-19 - Universal command-line interface for SQL databases.
+* [xxh](https://github.com/xxh/xxh) ⭐ 6,135 | 🐛 30 | 🌐 Python | 📅 2026-06-02 - Bring your favorite shell wherever you go through the SSH.
+* [xplr](https://github.com/sayanarijit/xplr) ⭐ 4,852 | 🐛 4 | 🌐 Rust | 📅 2026-11-17 -  A hackable, minimal, fast TUI file explorer
 * [xiki](https://github.com/trogdoro/xiki) ⭐ 3,748 | 🐛 118 | 🌐 Ruby | 📅 2020-01-03 - Makes the shell console more friendly and powerful
 * [wemux](https://github.com/zolrath/wemux) ⭐ 3,695 | 🐛 37 | 🌐 Shell | 📅 2022-10-03 - Multi-User Tmux Made Easy
 * [tere](https://github.com/mgunyho/tere) ⭐ 1,805 | 🐛 18 | 🌐 Rust | 📅 2026-10-17 - A faster alternative to cd + ls
@@ -158,10 +158,10 @@ A curated list of awesome command-line frameworks, toolkits, guides and gizmos. 
 
 ### Directory Navigation
 
-* [zoxide](https://github.com/ajeetdsouza/zoxide) ⭐ 40,691 | 🐛 165 | 🌐 Rust | 📅 2026-11-21 - A faster way to navigate your filesystem, written in Rust
+* [zoxide](https://github.com/ajeetdsouza/zoxide) ⭐ 40,702 | 🐛 166 | 🌐 Rust | 📅 2026-11-21 - A faster way to navigate your filesystem, written in Rust
 * [z](https://github.com/rupa/z) ⭐ 17,076 | 🐛 108 | 🌐 Shell | 📅 2024-06-19 - z is the new j, yo
 * [autojump](https://github.com/wting/autojump) ⭐ 16,964 | 🐛 231 | 🌐 Python | 📅 2025-02-27 - A cd command that learns - easily navigate directories from the command line
-* [z.lua](https://github.com/skywind3000/z.lua) ⭐ 3,147 | 🐛 75 | 🌐 Lua | 📅 2026-10-28 - A new cd command that helps you navigate faster by learning your habits
+* [z.lua](https://github.com/skywind3000/z.lua) ⭐ 3,148 | 🐛 75 | 🌐 Lua | 📅 2026-10-28 - A new cd command that helps you navigate faster by learning your habits
 * [enhancd](https://github.com/b4b4r07/enhancd) ⭐ 2,731 | 🐛 16 | 🌐 Shell | 📅 2026-10-09 - :rocket: A next-generation cd command with an interactive filter
 * [bashmarks](https://github.com/huyng/bashmarks) ⭐ 1,974 | 🐛 28 | 🌐 Shell | 📅 2026-10-06 - Directory bookmarks for the shell
 * [jump](https://github.com/gsamokovarov/jump) ⭐ 1,950 | 🐛 3 | 🌐 Go | 📅 2026-11-14 - Jump helps you navigate your file system faster by learning your habits.
@@ -177,8 +177,8 @@ A curated list of awesome command-line frameworks, toolkits, guides and gizmos. 
 
 *Custom prompts, color themes, etc.*
 
-* [powerlevel10k](https://github.com/romkatv/powerlevel10k) ⭐ 55,386 | 🐛 153 | 🌐 Shell | 📅 2026-11-19 - Super flexible awesome powerline ZSH theme
-* [Gogh - Color Scheme](https://github.com/Mayccoll/Gogh) ⭐ 10,366 | 🐛 7 | 🌐 Shell | 📅 2026-11-14 - Color Scheme for Gnome Terminal
+* [powerlevel10k](https://github.com/romkatv/powerlevel10k) ⭐ 55,386 | 🐛 154 | 🌐 Shell | 📅 2026-11-19 - Super flexible awesome powerline ZSH theme
+* [Gogh - Color Scheme](https://github.com/Mayccoll/Gogh) ⭐ 10,368 | 🐛 7 | 🌐 Shell | 📅 2026-11-14 - Color Scheme for Gnome Terminal
 * [bash-git-prompt](https://github.com/magicmonty/bash-git-prompt) ⭐ 6,938 | 🐛 36 | 🌐 Shell | 📅 2026-11-16 - An informative and fancy Bash prompt for Git users
 * [liquidprompt](https://github.com/nojhan/liquidprompt) ⭐ 4,688 | 🐛 30 | 🌐 Shell | 📅 2026-09-13 - A full-featured & carefully designed adaptive prompt for Bash & Zsh
 * [oh-my-git](https://github.com/arialdomartini/oh-my-git) ⭐ 3,715 | 🐛 56 | 🌐 Shell | 📅 2022-06-30 - An opinionated git prompt for bash and zsh
@@ -187,11 +187,11 @@ A curated list of awesome command-line frameworks, toolkits, guides and gizmos. 
 * [bashstrap](https://github.com/barryclark/bashstrap) ⭐ 1,551 | 🐛 3 | 🌐 Shell | 📅 2019-05-22 - A quick way to spruce up OSX terminal
 * [sexy-bash-prompt](https://github.com/twolfson/sexy-bash-prompt) ⭐ 1,157 | 🐛 2 | 🌐 Shell | 📅 2025-11-21 - Bash prompt with colors, Git statuses, and Git branches
 * [synth-shell](https://github.com/andresgongora/synth-shell) ⭐ 1,135 | 🐛 19 | 🌐 Shell | 📅 2026-11-11 - Greeter with a customizable status report and a fancy bash prompt
-* [geometry](https://github.com/geometry-zsh/geometry) ⭐ 1,003 | 🐛 13 | 🌐 Shell | 📅 2025-01-13 - A minimal ZSH theme where any function can be added to the left prompt or (async) right prompt on the fly.
+* [geometry](https://github.com/geometry-zsh/geometry) ⭐ 1,004 | 🐛 13 | 🌐 Shell | 📅 2025-01-13 - A minimal ZSH theme where any function can be added to the left prompt or (async) right prompt on the fly.
 * [bash-powerline](https://github.com/riobard/bash-powerline) ⭐ 907 | 🐛 16 | 🌐 Shell | 📅 2023-07-06 - Powerline-style Bash prompt in pure Bash script
-* [base16-builder](https://github.com/base16-builder/base16-builder) ⭐ 454 | 🐛 49 | 🌐 HTML | 📅 2021-06-10 - Base16-Builder
+* [base16-builder](https://github.com/base16-builder/base16-builder) ⭐ 453 | 🐛 49 | 🌐 HTML | 📅 2021-06-10 - Base16-Builder
 * [git-prompt](https://github.com/lvv/git-prompt) ⭐ 326 | 🐛 16 | 🌐 Shell | 📅 2024-05-05 - Bash prompt with Git, SVN and HG modules
-* [bash-full-of-colors](https://github.com/slomkowski/bash-full-of-colors) ⭐ 197 | 🐛 3 | 🌐 Shell | 📅 2022-01-21 - Powerful prompt with screen, tmux, git support and many more
+* [bash-full-of-colors](https://github.com/slomkowski/bash-full-of-colors) ⭐ 198 | 🐛 3 | 🌐 Shell | 📅 2022-01-21 - Powerful prompt with screen, tmux, git support and many more
 * [polyglot](https://github.com/agkozak/polyglot) ⭐ 197 | 🐛 6 | 🌐 Shell | 📅 2026-05-29 - An informative Git prompt that works in bash, zsh, ksh, mksh, pdksh, oksh, dash, yash, busybox sh, and osh
 * [aphrodite-terminal-theme](https://github.com/win0err/aphrodite-terminal-theme) ⭐ 179 | 🐛 2 | 🌐 Shell | 📅 2026-09-30 — Minimalistic Aphrodite theme (prompt) for sexy terminals that works in bash, fish and zsh
 * [mysql-colorize](https://github.com/zpm-zsh/mysql-colorize) ⭐ 106 | 🐛 0 | 🌐 Python | 📅 2026-09-10 -  Colorization for mysql comand-line client
@@ -204,25 +204,25 @@ A curated list of awesome command-line frameworks, toolkits, guides and gizmos. 
 
 *Command-line development, version control, and deployment.*
 
-* [just](https://github.com/casey/just) ⭐ 36,790 | 🐛 173 | 🌐 Rust | 📅 2026-11-15 - Task runner for saving and running project-specific commands.
-* [dokku](https://github.com/dokku/dokku) ⭐ 32,232 | 🐛 26 | 🌐 Shell | 📅 2026-11-21 - Docker powered mini-Heroku. The smallest PaaS implementation you've ever seen.
-* [cloc](https://github.com/AlDanial/cloc) ⭐ 23,682 | 🐛 26 | 🌐 Perl | 📅 2026-11-18 - Count Lines of Code
-* [hub](https://github.com/github/hub) ⭐ 22,956 | 🐛 294 | 🌐 Go | 📅 2024-02-02 - hub helps you win at git.
+* [just](https://github.com/casey/just) ⭐ 36,801 | 🐛 173 | 🌐 Rust | 📅 2026-11-15 - Task runner for saving and running project-specific commands.
+* [dokku](https://github.com/dokku/dokku) ⭐ 32,233 | 🐛 24 | 🌐 Go | 📅 2026-11-22 - Docker powered mini-Heroku. The smallest PaaS implementation you've ever seen.
+* [cloc](https://github.com/AlDanial/cloc) ⭐ 23,681 | 🐛 26 | 🌐 Perl | 📅 2026-11-18 - Count Lines of Code
+* [hub](https://github.com/github/hub) ⭐ 22,957 | 🐛 294 | 🌐 Go | 📅 2024-02-02 - hub helps you win at git.
 * [git-extras](https://github.com/tj/git-extras) ⭐ 18,129 | 🐛 95 | 🌐 Shell | 📅 2026-11-19 - Git utilities -- repo summary, repl, changelog population, author commit percentages and more
 * [bocker](https://github.com/p8952/bocker) ⭐ 12,721 | 🐛 15 | 🌐 Shell | 📅 2017-12-09 - Docker implemented in 100 lines of bash
 * [git-quick-stats](https://github.com/arzzen/git-quick-stats) ⭐ 7,012 | 🐛 3 | 🌐 Shell | 📅 2026-04-18 - Git quick statistics is a simple and efficient way to access various statistics in git repository.
-* [slap](https://github.com/slap-editor/slap) ⭐ 6,190 | 🐛 115 | 🌐 JavaScript | 📅 2021-11-01 - Sublime-like terminal-based text editor that runs on Node.js
-* [forgit](https://github.com/wfxr/forgit) ⭐ 5,095 | 🐛 7 | 🌐 Shell | 📅 2026-11-20 - Utility tool for `git` taking advantage of fuzzy finder fzf.
+* [slap](https://github.com/slap-editor/slap) ⭐ 6,189 | 🐛 115 | 🌐 JavaScript | 📅 2021-11-01 - Sublime-like terminal-based text editor that runs on Node.js
+* [forgit](https://github.com/wfxr/forgit) ⭐ 5,096 | 🐛 7 | 🌐 Shell | 📅 2026-11-20 - Utility tool for `git` taking advantage of fuzzy finder fzf.
 * [rebound](https://github.com/shobrook/rebound) ⭐ 4,107 | 🐛 24 | 🌐 Python | 📅 2022-02-16 - Instantly browse Stack Overflow results in your terminal when you get a compiler error
 * [overcommit](https://github.com/sds/overcommit) ⭐ 4,004 | 🐛 0 | 🌐 Ruby | 📅 2026-11-11 - A fully configurable and extendable Git hook manager
-* [git-open](https://github.com/paulirish/git-open) ⭐ 3,462 | 🐛 52 | 🌐 Shell | 📅 2026-05-25 - Type `git open` to open the GitHub page or website for a repository in your browser
+* [git-open](https://github.com/paulirish/git-open) ⭐ 3,463 | 🐛 52 | 🌐 Shell | 📅 2026-05-25 - Type `git open` to open the GitHub page or website for a repository in your browser
 * [gita](https://github.com/nosarthur/gita) ⭐ 1,968 | 🐛 41 | 🌐 Python | 📅 2026-10-21 - A command-line tool to manage multiple git repos.
 * [git-extra-commands](https://github.com/unixorn/git-extra-commands) ⭐ 1,176 | 🐛 4 | 🌐 Shell | 📅 2026-11-18 - Many Git extra utilities. Churn, cut-branch, improved-merge and many more.
 * [git-sh](https://github.com/rtomayko/git-sh) ⚠️ Archived - A customized Bash environment suitable for Git work
 * [add-gitignore](https://github.com/TejasQ/add-gitignore) ⭐ 733 | 🐛 5 | 🌐 JavaScript | 📅 2023-11-20 - Interactive CLI that generates a .gitignore for your project based on your needs.
 * [bitwise](https://github.com/mellowcandle/bitwise) ⭐ 725 | 🐛 9 | 🌐 C | 📅 2026-09-10 - Terminal based interactive bit manipulator in curses.
 * [nve](https://github.com/ehmicky/nve) ⭐ 714 | 🐛 0 | 🌐 JavaScript | 📅 2026-10-30 - Run any command on specific Node.js versions.
-* [bcal](https://github.com/jarun/bcal) ⭐ 710 | 🐛 2 | 🌐 C | 📅 2026-10-31 - Byte CALculator for storage conversions and calculations
+* [bcal](https://github.com/jarun/bcal) ⭐ 710 | 🐛 2 | 🌐 C | 📅 2026-11-22 - Byte CALculator for storage conversions and calculations
 * [tag](https://github.com/aykamko/tag) ⭐ 611 | 🐛 11 | 🌐 Go | 📅 2023-01-24 - Instantly jump to your ag matches.
 * [shipit](https://github.com/sapegin/shipit) ⭐ 564 | 🐛 2 | 🌐 Shell | 📅 2020-04-08 - Minimalistic SSH deployment
 * [git-semver](https://github.com/markchalloner/git-semver) ⭐ 394 | 🐛 12 | 🌐 Shell | 📅 2020-01-21 - Git plugin for easing semantic versioning and changelog validation
@@ -243,21 +243,21 @@ A curated list of awesome command-line frameworks, toolkits, guides and gizmos. 
 
 *OS-related tools, including system administration, system debugging, and file and process management.*
 
-* [bat](https://github.com/sharkdp/bat) ⭐ 61,352 | 🐛 574 | 🌐 Rust | 📅 2026-11-21 - A `cat` clone with wings
-* [btop](https://github.com/aristocratos/btop) ⭐ 35,491 | 🐛 622 | 🌐 C++ | 📅 2026-11-11 - Linux/OSX/FreeBSD resource monitor
-* [glances](https://github.com/nicolargo/glances) ⭐ 34,001 | 🐛 106 | 🌐 Python | 📅 2026-11-21 - Glances an Eye on your system
-* [exa](https://github.com/ogham/exa) ⭐ 24,452 | 🐛 214 | 🌐 Rust | 📅 2024-09-24 - A modern version of `ls`.
-* [goaccess](https://github.com/allinurl/goaccess) ⭐ 21,149 | 🐛 449 | 🌐 C | 📅 2026-11-20 - GoAccess is a real-time web log analyzer and interactive viewer that runs in a terminal in \*nix systems.
-* [lsd](https://github.com/Peltoche/lsd) ⭐ 16,301 | 🐛 218 | 🌐 Rust | 📅 2026-08-17 - LSDeluxe, rewrite of GNU ls with lot of added features like colors, icons, tree-view and more formatting options.
-* [progress](https://github.com/Xfennec/progress) ⭐ 8,854 | 🐛 67 | 🌐 C | 📅 2024-11-19 - Linux tool to show progress for `cp`, `rm`, `dd`, and more...
+* [bat](https://github.com/sharkdp/bat) ⭐ 61,373 | 🐛 576 | 🌐 Rust | 📅 2026-11-22 - A `cat` clone with wings
+* [btop](https://github.com/aristocratos/btop) ⭐ 35,496 | 🐛 624 | 🌐 C++ | 📅 2026-11-22 - Linux/OSX/FreeBSD resource monitor
+* [glances](https://github.com/nicolargo/glances) ⭐ 34,003 | 🐛 108 | 🌐 Python | 📅 2026-11-22 - Glances an Eye on your system
+* [exa](https://github.com/ogham/exa) ⭐ 24,455 | 🐛 214 | 🌐 Rust | 📅 2024-09-24 - A modern version of `ls`.
+* [goaccess](https://github.com/allinurl/goaccess) ⭐ 21,150 | 🐛 449 | 🌐 C | 📅 2026-11-20 - GoAccess is a real-time web log analyzer and interactive viewer that runs in a terminal in \*nix systems.
+* [lsd](https://github.com/Peltoche/lsd) ⭐ 16,306 | 🐛 218 | 🌐 Rust | 📅 2026-08-17 - LSDeluxe, rewrite of GNU ls with lot of added features like colors, icons, tree-view and more formatting options.
+* [progress](https://github.com/Xfennec/progress) ⭐ 8,855 | 🐛 67 | 🌐 C | 📅 2024-11-19 - Linux tool to show progress for `cp`, `rm`, `dd`, and more...
 * [htop](https://github.com/hishamhm/htop) ⚠️ Archived - A ncurses based interactive process viewer which aims to be a better `top`
-* [mtr](https://github.com/traviscross/mtr) ⭐ 3,390 | 🐛 142 | 🌐 C | 📅 2026-11-02 - The functionality of the 'traceroute' and 'ping' programs in a single network diagnostic tool.
-* [ccat](https://github.com/owenthereal/ccat) ⭐ 3,207 | 🐛 41 | 🌐 Go | 📅 2022-09-05 - ccat is the colorizing cat. It works similar to cat but displays content with syntax highlighting.
-* [tiptop](https://github.com/nschloe/tiptop) ⭐ 2,136 | 🐛 25 | 🌐 Python | 📅 2025-09-04 - Graphical command-line system monitor.
+* [mtr](https://github.com/traviscross/mtr) ⭐ 3,391 | 🐛 140 | 🌐 C | 📅 2026-11-22 - The functionality of the 'traceroute' and 'ping' programs in a single network diagnostic tool.
+* [ccat](https://github.com/owenthereal/ccat) ⭐ 3,206 | 🐛 41 | 🌐 Go | 📅 2022-09-05 - ccat is the colorizing cat. It works similar to cat but displays content with syntax highlighting.
+* [tiptop](https://github.com/nschloe/tiptop) ⭐ 2,137 | 🐛 25 | 🌐 Python | 📅 2025-09-04 - Graphical command-line system monitor.
 * [hblock](https://github.com/hectorm/hblock) ⭐ 2,011 | 🐛 26 | 🌐 Shell | 📅 2026-10-31 - Hosts-file based adblocker
 * [maza](https://github.com/tanrax/maza-ad-blocking) ⭐ 1,874 | 🐛 0 | 🌐 Shell | 📅 2026-11-17 - Local ad blocker. Like Pi-hole but local and using your operating system.
 * [bmon](https://github.com/tgraf/bmon) ⭐ 1,400 | 🐛 38 | 🌐 C | 📅 2026-09-19 - Real-time network bandwidth monitor and rate estimator with human-friendly visual output
-* [powertop](https://github.com/fenrus75/powertop) ⭐ 1,358 | 🐛 102 | 🌐 C++ | 📅 2026-11-10 - Battery/Power usage and device stats monitoring command-line tool, with tune-up options.
+* [powertop](https://github.com/fenrus75/powertop) ⭐ 1,359 | 🐛 102 | 🌐 C++ | 📅 2026-11-10 - Battery/Power usage and device stats monitoring command-line tool, with tune-up options.
 * [prettyping](https://github.com/denilsonsa/prettyping) ⭐ 1,284 | 🐛 31 | 🌐 Shell | 📅 2025-06-01 - Making the output of `ping` prettier, more colorful, more compact, and easier to read.
 * [stronghold](https://github.com/alichtman/stronghold) ⭐ 1,193 | 🐛 11 | 🌐 Python | 📅 2026-11-10 - Easily configure MacOS security settings from the terminal.
 * [xiringuito](https://github.com/ivanilves/xiringuito) ⭐ 1,164 | 🐛 8 | 🌐 Shell | 📅 2021-12-29 - SSH-based "VPN for poors"
@@ -279,15 +279,15 @@ A curated list of awesome command-line frameworks, toolkits, guides and gizmos. 
 
 *Self-hosted, lightweight servers and networking tools written in shell scripts.*
 
-* [yt-dlp](https://github.com/yt-dlp/yt-dlp) ⭐ 209,658 | 🐛 2,795 | 🌐 Python | 📅 2026-11-21 - Command-line program to download videos from YouTube.com and other video sites
-* [aria2](https://github.com/aria2/aria2) ⭐ 43,583 | 🐛 1,190 | 🌐 C++ | 📅 2026-06-25 - aria2 is a lightweight multi-protocol & multi-source, cross platform download utility operated in command-line. It supports HTTP/HTTPS, FTP, BitTorrent and Metalink
-* [httpie](https://github.com/httpie/httpie) ⭐ 38,726 | 🐛 364 | 🌐 Python | 📅 2024-12-17 - HTTPie is a command line HTTP client, a user-friendly cURL replacement
-* [xh](https://github.com/ducaale/xh) ⭐ 8,203 | 🐛 38 | 🌐 Rust | 📅 2026-11-06 - Friendly and fast tool for sending HTTP requests
+* [yt-dlp](https://github.com/yt-dlp/yt-dlp) ⭐ 209,975 | 🐛 2,785 | 🌐 Python | 📅 2026-11-22 - Command-line program to download videos from YouTube.com and other video sites
+* [aria2](https://github.com/aria2/aria2) ⭐ 43,591 | 🐛 1,190 | 🌐 C++ | 📅 2026-06-25 - aria2 is a lightweight multi-protocol & multi-source, cross platform download utility operated in command-line. It supports HTTP/HTTPS, FTP, BitTorrent and Metalink
+* [httpie](https://github.com/httpie/httpie) ⭐ 38,729 | 🐛 364 | 🌐 Python | 📅 2024-12-17 - HTTPie is a command line HTTP client, a user-friendly cURL replacement
+* [xh](https://github.com/ducaale/xh) ⭐ 8,208 | 🐛 38 | 🌐 Rust | 📅 2026-11-06 - Friendly and fast tool for sending HTTP requests
 * [Dropbox-Uploader](https://github.com/andreafabrizi/Dropbox-Uploader) ⭐ 6,600 | 🐛 162 | 🌐 Shell | 📅 2024-06-04 - Dropbox Uploader is a Bash script which can be used to upload, download, list or delete files from Dropbox
 * [HTTPLab](https://github.com/gchaincl/httplab) ⭐ 4,139 | 🐛 13 | 🌐 Go | 📅 2024-02-05 - The interactive web server, let you inspect HTTP requests and forge responses.
 * [resty](https://github.com/micha/resty) ⭐ 2,649 | 🐛 17 | 🌐 Shell | 📅 2023-02-17 - Little command line REST client that you can use in pipelines
 * [bashttpd](https://github.com/avleen/bashttpd) ⭐ 1,555 | 🐛 15 | 🌐 Shell | 📅 2026-07-24 - A web server written in Bash
-* [shell2http](https://github.com/msoap/shell2http) ⭐ 1,516 | 🐛 4 | 🌐 Go | 📅 2026-11-15 - HTTP-server to execute shell commands. Designed for development, prototyping or remote control
+* [shell2http](https://github.com/msoap/shell2http) ⭐ 1,516 | 🐛 4 | 🌐 Go | 📅 2026-11-22 - HTTP-server to execute shell commands. Designed for development, prototyping or remote control
 * [bitpocket](https://github.com/sickill/bitpocket) ⭐ 1,032 | 🐛 28 | 🌐 Shell | 📅 2023-08-12 - "DIY Dropbox" or "2-way directory (r)sync with proper deletion"
 * [balls](https://github.com/jneen/balls) ⭐ 868 | 🐛 5 | 🌐 Shell | 📅 2016-07-29 - Bash on Balls
 * [Kapow!](https://github.com/BBVA/kapow) ⭐ 623 | 🐛 32 | 🌐 Go | 📅 2024-10-23 - If you can script it, you can HTTP it.
@@ -300,23 +300,23 @@ A curated list of awesome command-line frameworks, toolkits, guides and gizmos. 
 
 *Tools for handling video and audio files.*
 
-* [jq](https://github.com/stedolan/jq) ⭐ 36,209 | 🐛 458 | 🌐 C | 📅 2026-11-02 - Sed for json data. You can use it to slice and filter and map and transform structured data
-* [fx](https://github.com/antonmedv/fx) ⭐ 20,723 | 🐛 10 | 🌐 Go | 📅 2026-11-20 - Command-line JSON processing tool by anononymus JavaScript functions
-* [yq](https://github.com/mikefarah/yq) ⭐ 16,334 | 🐛 348 | 🌐 Go | 📅 2026-11-19 - yq is a portable command-line YAML processor
-* [Beets](https://github.com/beetbox/beets) ⭐ 15,967 | 🐛 680 | 🌐 Python | 📅 2026-11-21 - Music library manager and MusicBrainz tagger
-* [visidata](https://github.com/saulpw/visidata) ⭐ 9,480 | 🐛 8 | 🌐 Python | 📅 2026-11-11 - A terminal spreadsheet multitool for exploring and arranging data (csv/json/xml/xls/yaml/etc)
+* [jq](https://github.com/stedolan/jq) ⭐ 36,223 | 🐛 460 | 🌐 C | 📅 2026-11-02 - Sed for json data. You can use it to slice and filter and map and transform structured data
+* [fx](https://github.com/antonmedv/fx) ⭐ 20,722 | 🐛 10 | 🌐 Go | 📅 2026-11-20 - Command-line JSON processing tool by anononymus JavaScript functions
+* [yq](https://github.com/mikefarah/yq) ⭐ 16,345 | 🐛 348 | 🌐 Go | 📅 2026-11-19 - yq is a portable command-line YAML processor
+* [Beets](https://github.com/beetbox/beets) ⭐ 15,972 | 🐛 677 | 🌐 Python | 📅 2026-11-22 - Music library manager and MusicBrainz tagger
+* [visidata](https://github.com/saulpw/visidata) ⭐ 9,482 | 🐛 8 | 🌐 Python | 📅 2026-11-11 - A terminal spreadsheet multitool for exploring and arranging data (csv/json/xml/xls/yaml/etc)
 * [jc](https://github.com/kellyjonbrazil/jc) ⭐ 8,706 | 🐛 47 | 🌐 Python | 📅 2026-11-14 - Convert command output, file-types, and common strings to JSON or YAML for easier use in scripts.
-* [dasel](https://github.com/tomwright/dasel) ⭐ 8,093 | 🐛 33 | 🌐 Go | 📅 2026-11-02 - Query and update data structures using selectors from the command line. Comparable to [jq](https://github.com/stedolan/jq) ⭐ 36,209 | 🐛 458 | 🌐 C | 📅 2026-11-02 / [yq](https://github.com/kislyuk/yq) ⭐ 3,004 | 🐛 20 | 🌐 Python | 📅 2026-10-11 but supports JSON, YAML, TOML and XML with zero runtime dependencies.
-* [cmus](https://github.com/cmus/cmus) ⭐ 6,301 | 🐛 224 | 🌐 C | 📅 2026-10-28 - Cross-platform cli audio player.
-* [jo](https://github.com/jpmens/jo) ⭐ 4,869 | 🐛 7 | 🌐 C | 📅 2025-06-20 - A small utility to create JSON objects from command-line arguments.
+* [dasel](https://github.com/tomwright/dasel) ⭐ 8,098 | 🐛 33 | 🌐 Go | 📅 2026-11-02 - Query and update data structures using selectors from the command line. Comparable to [jq](https://github.com/stedolan/jq) ⭐ 36,223 | 🐛 460 | 🌐 C | 📅 2026-11-02 / [yq](https://github.com/kislyuk/yq) ⭐ 3,004 | 🐛 20 | 🌐 Python | 📅 2026-10-11 but supports JSON, YAML, TOML and XML with zero runtime dependencies.
+* [cmus](https://github.com/cmus/cmus) ⭐ 6,302 | 🐛 224 | 🌐 C | 📅 2026-10-28 - Cross-platform cli audio player.
+* [jo](https://github.com/jpmens/jo) ⭐ 4,870 | 🐛 7 | 🌐 C | 📅 2025-06-20 - A small utility to create JSON objects from command-line arguments.
 * [PiCAST](https://github.com/lanceseidman/PiCAST) ⭐ 1,790 | 🐛 26 | 🌐 Shell | 📅 2026-03-28 - PiCAST turns your $35 Raspberry Pi in to a Chromecast like Device
 * [imgp](https://github.com/jarun/imgp) ⭐ 1,095 | 🐛 0 | 🌐 Python | 📅 2026-11-17 - Blazing fast batch image resizer and rotator
 * [Android-Kitchen](https://github.com/dsixda/Android-Kitchen) ⭐ 1,080 | 🐛 4 | 🌐 Shell | 📅 2021-02-19 - A text-based kitchen for Android ROM customization. Uses shell scripts and works with Cygwin/OS X/Linux
 * [xidel](https://github.com/benibela/xidel/) ⭐ 851 | 🐛 26 | 🌐 Pascal | 📅 2025-02-22 - Cli tool to filter, map and create HTML/XML/JSON data with (Turing-complete) XPath and XQuery.
 * [image-scraper](https://github.com/sananth12/ImageScraper) ⭐ 774 | 🐛 25 | 🌐 Python | 📅 2018-01-04 - A cool command line image scraper with a lot of features.
 * [gifgen](https://github.com/lukechilds/gifgen) ⭐ 567 | 🐛 2 | 🌐 Shell | 📅 2023-01-22 - Simple high quality GIF encoding
-* [sejda](https://github.com/torakiki/sejda/) ⭐ 551 | 🐛 49 | 🌐 Java | 📅 2026-11-19 - Command line manipulation of PDF documents (split, merge, rotate, convert to jpg, extract text, etc)
-* [library](https://github.com/chapmanjacobd/library) ⭐ 487 | 🐛 6 | 🌐 Python | 📅 2026-11-17 - Create SQLITE databases for folders of music, video, images, or online media. Play and track media like Plex but a CLI-only interface with many sorting options.
+* [sejda](https://github.com/torakiki/sejda/) ⭐ 552 | 🐛 49 | 🌐 Java | 📅 2026-11-19 - Command line manipulation of PDF documents (split, merge, rotate, convert to jpg, extract text, etc)
+* [library](https://github.com/chapmanjacobd/library) ⭐ 487 | 🐛 6 | 🌐 Python | 📅 2026-11-22 - Create SQLITE databases for folders of music, video, images, or online media. Play and track media like Plex but a CLI-only interface with many sorting options.
 * [korkut](https://github.com/oguzhaninan/korkut) ⭐ 386 | 🐛 6 | 🌐 TypeScript | 📅 2022-12-03 - Quick and simple image processing at the command line.
 * [dzr](https://github.com/yne/dzr) ⭐ 267 | 🐛 3 | 🌐 Shell | 📅 2026-03-15 - Cross-platform Deezer.com audio player.
 * [adb-export](https://github.com/sromku/adb-export) ⭐ 116 | 🐛 2 | 🌐 Shell | 📅 2026-09-08 - Export Android content providers to CSV format
@@ -328,15 +328,15 @@ A curated list of awesome command-line frameworks, toolkits, guides and gizmos. 
 
 *Command line-based applications or command line access to existing services.*
 
-* [wttr.in](https://github.com/chubin/wttr.in) ⭐ 30,809 | 🐛 338 | 🌐 Go | 📅 2026-11-03 - :partly\_sunny: The right way to check the weather (curl wttr.in)
-* [ranger](https://github.com/ranger/ranger) ⭐ 17,469 | 🐛 897 | 🌐 Python | 📅 2026-09-09 - A console file manager with VI key bindings.
-* [taskbook](https://github.com/klaussinani/taskbook) ⭐ 9,349 | 🐛 104 | 🌐 JavaScript | 📅 2025-11-03 - Tasks, boards & notes for the command-line habitat
+* [wttr.in](https://github.com/chubin/wttr.in) ⭐ 30,807 | 🐛 335 | 🌐 Go | 📅 2026-11-22 - :partly\_sunny: The right way to check the weather (curl wttr.in)
+* [ranger](https://github.com/ranger/ranger) ⭐ 17,468 | 🐛 897 | 🌐 Python | 📅 2026-09-09 - A console file manager with VI key bindings.
+* [taskbook](https://github.com/klaussinani/taskbook) ⭐ 9,348 | 🐛 104 | 🌐 JavaScript | 📅 2025-11-03 - Tasks, boards & notes for the command-line habitat
 * [wego](https://github.com/schachmat/wego) ⭐ 8,573 | 🐛 18 | 🌐 Go | 📅 2026-11-01 - Weather app for the terminal
 * [jrnl](https://github.com/jrnl-org/jrnl) ⭐ 7,362 | 🐛 173 | 🌐 Python | 📅 2026-11-20 - A simple command line journal application that stores your journal in a plain text file
 * [ticker](https://github.com/achannarasappa/ticker) ⭐ 6,270 | 🐛 32 | 🌐 Go | 📅 2026-06-28 — Terminal stock ticker with live updates and position tracking
 * [ledger](https://github.com/ledger/ledger) ⭐ 6,078 | 🐛 40 | 🌐 C++ | 📅 2026-11-21 - Command line accounting
 * [carbon-now-cli](https://github.com/mixn/carbon-now-cli) ⭐ 6,034 | 🐛 8 | 🌐 TypeScript | 📅 2025-11-14 - 🎨 Beautiful images of your code — from right inside your terminal.
-* [editly](https://github.com/mifi/editly) ⭐ 5,638 | 🐛 81 | 🌐 TypeScript | 📅 2025-05-12 - Command line video editor
+* [editly](https://github.com/mifi/editly) ⭐ 5,646 | 🐛 81 | 🌐 TypeScript | 📅 2025-05-12 - Command line video editor
 * [SAWS](https://github.com/donnemartin/saws) ⭐ 5,297 | 🐛 39 | 🌐 Python | 📅 2024-04-02 - A Supercharged AWS CLI
 * [awless](https://github.com/wallix/awless) ⭐ 4,956 | 🐛 120 | 🌐 Go | 📅 2022-08-02 - A powerful, innovative and small surface CLI to manage AWS.
 * [Reddit Terminal Viewer](https://github.com/michael-lazar/rtv) ⚠️ Archived - Browse Reddit from your terminal
@@ -345,7 +345,7 @@ A curated list of awesome command-line frameworks, toolkits, guides and gizmos. 
 * [gcalcli](https://github.com/insanum/gcalcli) ⭐ 3,787 | 🐛 176 | 🌐 Python | 📅 2025-10-25 - Google Calendar command line interface
 * [geeknote](https://github.com/VitaliyRodnenko/geeknote) ⭐ 2,089 | 🐛 205 | 🌐 Python | 📅 2021-02-06 - Command line evernote client
 * [ansiweather](https://github.com/fcambus/ansiweather) ⭐ 1,949 | 🐛 0 | 🌐 Shell | 📅 2026-07-24 - Weather in your terminal, with ANSI colors and Unicode symbols
-* [bashblog](https://github.com/cfenollosa/bashblog) ⭐ 1,933 | 🐛 36 | 🌐 Shell | 📅 2026-11-12 - A Bash script that handles blog posting
+* [bashblog](https://github.com/cfenollosa/bashblog) ⭐ 1,933 | 🐛 0 | 🌐 Shell | 📅 2026-11-12 - A Bash script that handles blog posting
 * [fanyi](https://github.com/afc163/fanyi) ⭐ 1,555 | 🐛 5 | 🌐 JavaScript | 📅 2026-09-07 - Translate English to Chinese in terminal
 * [dstask](https://github.com/naggie/dstask) ⭐ 1,222 | 🐛 46 | 🌐 Go | 📅 2026-05-11 - Single binary terminal-based TODO manager with git-based sync + markdown notes per task
 * [kanban.bash](https://github.com/coderofsalvation/kanban.bash) ⭐ 958 | 🐛 6 | 🌐 Shell | 📅 2026-07-15 - commandline asciii kanban board for minimalist productivity bash hackers (csv-based)
@@ -385,7 +385,7 @@ A curated list of awesome command-line frameworks, toolkits, guides and gizmos. 
 
 *Tools for managing multiple shell configurations. For zsh-specific tools, see the Zsh section.*
 
-* [bash-it](https://github.com/Bash-it/bash-it) ⭐ 15,307 | 🐛 6 | 🌐 Shell | 📅 2026-10-27 - A community Bash framework
+* [bash-it](https://github.com/Bash-it/bash-it) ⭐ 15,307 | 🐛 5 | 🌐 Shell | 📅 2026-11-22 - A community Bash framework
 * [vcsh](https://github.com/RichiH/vcsh) ⭐ 2,281 | 🐛 76 | 🌐 Shell | 📅 2025-12-29 - Config manager based on Git
 * [homeshick](https://github.com/andsens/homeshick) ⭐ 2,195 | 🐛 16 | 🌐 Shell | 📅 2026-10-28 - Git dotfile synchronizer written in Bash
 * [dotdrop](https://github.com/deadc0de6/dotdrop) ⭐ 1,960 | 🐛 0 | 🌐 Python | 📅 2026-11-17 - Save your dotfiles once, deploy them everywhere
@@ -402,13 +402,13 @@ A curated list of awesome command-line frameworks, toolkits, guides and gizmos. 
 
 *Tools for writing, improving, or organizing Bash or other shell scripts*
 
-* [shellcheck](https://github.com/koalaman/shellcheck) ⭐ 40,364 | 🐛 1,078 | 🌐 Haskell | 📅 2026-11-21 - Static analysis tool for shell scripts
-* [shfmt](https://github.com/mvdan/sh) ⭐ 9,216 | 🐛 49 | 🌐 Go | 📅 2026-11-18 - A shell parser, formatter, and interpreter with bash support; includes shfmt
-* [bats](https://github.com/bats-core/bats-core) ⭐ 6,370 | 🐛 131 | 🌐 Shell | 📅 2026-11-12 - Bash Automated Testing System
-* [bash-language-server](https://github.com/bash-lsp/bash-language-server) ⭐ 2,814 | 🐛 78 | 🌐 TypeScript | 📅 2026-11-21 - [LSP](https://microsoft.github.io/language-server-protocol/)-based Bash language server
+* [shellcheck](https://github.com/koalaman/shellcheck) ⭐ 40,370 | 🐛 1,079 | 🌐 Haskell | 📅 2026-11-21 - Static analysis tool for shell scripts
+* [shfmt](https://github.com/mvdan/sh) ⭐ 9,218 | 🐛 49 | 🌐 Go | 📅 2026-11-18 - A shell parser, formatter, and interpreter with bash support; includes shfmt
+* [bats](https://github.com/bats-core/bats-core) ⭐ 6,370 | 🐛 130 | 🌐 Shell | 📅 2026-11-22 - Bash Automated Testing System
+* [bash-language-server](https://github.com/bash-lsp/bash-language-server) ⭐ 2,813 | 🐛 78 | 🌐 TypeScript | 📅 2026-11-22 - [LSP](https://microsoft.github.io/language-server-protocol/)-based Bash language server
 * [sub](https://github.com/basecamp/sub) ⭐ 1,758 | 🐛 9 | 🌐 Shell | 📅 2021-08-24 - A delicious way to organize programs
 * [shunit2](https://github.com/kward/shunit2) ⭐ 1,740 | 🐛 46 | 🌐 Shell | 📅 2026-03-15 - A unit test framework for Bash scripts with a flavour of JUnit/PyUnit.
-* [shellspec](https://github.com/shellspec/shellspec) ⭐ 1,403 | 🐛 114 | 🌐 Shell | 📅 2025-11-24 - A full-featured BDD unit testing framework for dash, bash, ksh, zsh and all POSIX shells
+* [shellspec](https://github.com/shellspec/shellspec) ⭐ 1,404 | 🐛 114 | 🌐 Shell | 📅 2025-11-24 - A full-featured BDD unit testing framework for dash, bash, ksh, zsh and all POSIX shells
 * [shellfire](https://github.com/shellfire-dev/shellfire) ⭐ 1,224 | 🐛 15 | 🌐 Shell | 📅 2015-12-14 -  A repository of namespaced, composable shell (bash, sh and dash) function libraries
 * [ansi](https://github.com/fidian/ansi) ⭐ 854 | 🐛 2 | 🌐 Shell | 📅 2021-11-28 - ANSI escape codes in pure bash - change text color, position the cursor, much more
 * [bashful](https://github.com/jmcantrell/bashful) ⚠️ Archived - A collection of libraries to simplify writing Bash scripts
@@ -446,8 +446,8 @@ A curated list of awesome command-line frameworks, toolkits, guides and gizmos. 
 
 # Guides
 
-* [The Art of Command Line](https://github.com/jlevy/the-art-of-command-line) ⭐ 162,824 | 🐛 256 | 📅 2024-06-25
-* [A guide to learn bash](https://github.com/Idnan/bash-guide) ⭐ 12,468 | 🐛 27 | 📅 2024-08-11
+* [The Art of Command Line](https://github.com/jlevy/the-art-of-command-line) ⭐ 162,828 | 🐛 256 | 📅 2024-06-25
+* [A guide to learn bash](https://github.com/Idnan/bash-guide) ⭐ 12,470 | 🐛 27 | 📅 2024-08-11
 * [Bash Official Reference Manual](https://www.gnu.org/savannah-checkouts/gnu/bash/manual/bash.html)
 * [Bash Hackers Wiki](https://web.archive.org/web/20230406205817/https://wiki.bash-hackers.org/)
 * [Greg Wooledge's (aka "greycat") wiki](https://mywiki.wooledge.org).
@@ -462,12 +462,12 @@ A curated list of awesome command-line frameworks, toolkits, guides and gizmos. 
 
 # Other Awesome Lists
 
-Other amazingly awesome lists can be found in [awesome-awesome](https://github.com/emijrp/awesome-awesome) ⭐ 3,251 | 🐛 28 | 📅 2024-07-31 and [awesome-awesomeness](https://github.com/bayandin/awesome-awesomeness) ⭐ 33,809 | 🐛 67 | 🌐 Ruby | 📅 2024-06-02.
+Other amazingly awesome lists can be found in [awesome-awesome](https://github.com/emijrp/awesome-awesome) ⭐ 3,252 | 🐛 28 | 📅 2024-07-31 and [awesome-awesomeness](https://github.com/bayandin/awesome-awesomeness) ⭐ 33,810 | 🐛 67 | 🌐 Ruby | 📅 2024-06-02.
 
 ### See also
 
 * [awesome-cli-apps](https://github.com/agarrharr/awesome-cli-apps) ⚠️ Archived
-* [terminals-are-sexy](https://github.com/k4m4/terminals-are-sexy) ⭐ 13,167 | 🐛 157 | 🌐 Shell | 📅 2024-07-26
+* [terminals-are-sexy](https://github.com/k4m4/terminals-are-sexy) ⭐ 13,166 | 🐛 157 | 🌐 Shell | 📅 2024-07-26
 * [awesome-fish][awesome-fish]
 * [awesome-zsh][awesome-zsh]
 * [awesome-bash][awesome-bash]
@@ -484,4 +484,4 @@ Other amazingly awesome lists can be found in [awesome-awesome](https://github.c
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-11-21._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-11-22._
